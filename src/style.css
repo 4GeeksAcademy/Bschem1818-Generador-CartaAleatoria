@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.card {
+  font-size: 80px;
+}
+#symbols {
+  color: red;
+}
